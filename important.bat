@@ -1,3 +1,4 @@
-echo off
+@echo off
 :x
 start cmd
+
